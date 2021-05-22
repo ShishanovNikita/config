@@ -15,10 +15,16 @@ set autoindent
 
 "search options
 set incsearch
-set hlsearch
+set nohlsearch
+set ignorecase
+set smartcase
 
 "
+set title
 set showmatch
+set showcmd
+set scrolloff=5
+
 
 "space shortcuts
 let mapleader = " "
