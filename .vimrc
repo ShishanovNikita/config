@@ -25,18 +25,34 @@ let mapleader = " "
 nnoremap <Leader>h /
 nnoremap <Leader>w :w
 
-"for dvorak
-nnoremap s l 
-nnoremap S L
+""optimized normal mode layout for dvorak
+"home row
 nnoremap l s
 nnoremap L S
 
-nnoremap t j
-nnoremap T J
 nnoremap j t
 nnoremap J T
 
-nnoremap n k
-nnoremap N K
 nnoremap k n
 nnoremap K N
+
+nnoremap w u
+nnoremap W U
+
+nnoremap b a
+nnoremap B A
+
+nnoremap a d
+nnoremap A D
+
+nnoremap t o
+nnoremap T O
+
+nnoremap f e
+nnoremap F E
+"top row 
+
+
+
+
+
