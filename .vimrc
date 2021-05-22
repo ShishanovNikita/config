@@ -27,9 +27,6 @@ nnoremap <Leader>w :w
 
 ""optimized normal mode layout for dvorak
 "home row
-nnoremap s l
-nnoremap S L
-
 nnoremap t j
 nnoremap T J
 
@@ -61,12 +58,15 @@ nnoremap G N
 nnoremap r o
 nnoremap R O
 
-nnoremap s r
-nnoremap S R
-
 "bottom row
 nnoremap z s
 nnoremap Z S
+
+nnoremap s l
+nnoremap S L
+
+nnoremap l r
+nnoremap L R
 
 nnoremap v z
 nnoremap V Z
