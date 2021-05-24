@@ -24,6 +24,9 @@ set title
 set showmatch
 set showcmd
 set scrolloff=5
+set guicursor=
+set nowrap
+set hidden
 
 
 "space shortcuts
