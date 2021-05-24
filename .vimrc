@@ -32,7 +32,8 @@ set hidden
 "space shortcuts
 let mapleader = " "
 nnoremap <Leader>h /
-nnoremap <Leader>w :w
+nnoremap <Leader>w :w<Return>
+nnoremap <Leager>p :q<Return>
 
 ""optimized normal mode layout for dvorak
 "home row
